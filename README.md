@@ -1,6 +1,6 @@
 ### Olá, eu sou Edinete Sousa!
 
-- 🔭 Atualmente estou em processo de migração de carreira para Analista de Testes
-- 📚 Estudo Robot Framework e Cypress para testes automatizados
+- 🔭 Após 10 anos atuaando com atendimento ao cliente em empresa de tecnologia, atualmente estou migrando para Analista de Testes
+- 📚 Conhecimento básico em Cypress e Robot Framework para testes automatizados e banco de dados e linguagem SQL com PostgreSQL
 - 📫 Contate-me pelo e-mail: edineteb.sousa@gmail.com
 - 😄 Pronomes: Ela/ Dela
