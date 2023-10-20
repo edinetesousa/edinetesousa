@@ -1,6 +1,13 @@
 ### Olá, eu sou Edinete Sousa!
 
-- 🔭 Analista de Testes 
-- 📚 Conhecimento em Cypress e Robot Framework para testes automatizados e banco de dados e linguagem SQL com PostgreSQL, criação e execução de cenáros de teste e script de teste com Gherking.
+- 🐞 Analista de Testes (QA)
+- 📚 Conhecimentos:
+- ✅ Criação de plano de testes 
+- ✅ Cenáros de teste
+- ✅ Script de teste
+- ✅ Report de testes
+- ✅ Report de bugs
+- ✅ Cypress e Robot Framework para testes automatizados
+- ✅ Banco de Dados e Linguagem SQL com PostgreSQL
 - 📫 Contate-me pelo e-mail: edinetesousaqa@gmail.com
 - 😄 Pronomes: Ela/ Dela
