@@ -4,7 +4,7 @@
 
 📚 Sou formada em Administração de Empresas e estou cursando **Analise e Desenvolvimento de Sistemas** na Estácio (EAD).
 
-📚 Participei do curso de **Formação em Quality Assurance** do programa IT Talent, promovido pelo IREDE - Instituto de Gestão, Redes Tecnológicas e Energias, em parceria com o Instituto Atlântico, HP e UECE.
+📚 Participei do curso de **Formação em Quality Assurance** do programa IT Talent, promovido pelo IREDE - Instituto de Gestão, Redes Tecnológicas e Energias, em parceria com o Instituto Atlântico, HP e Universidade Estadual do Ceará - UECE.
 
 📚 Participei do **Bootcamp Avanti na trilha de Quality Assurance**, promovido pelo Instituto Atlântico.
 
