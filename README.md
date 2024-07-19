@@ -1,8 +1,9 @@
-<h1> Olá, eu sou Edinete Sousa! 🙋🏽‍♀️ </h1>
-
 <a href="https://www.linkedin.com/in/edinetesousa/">
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
+
+<h1> Olá, eu sou Edinete Sousa! 🙋🏽‍♀️ </h1>
+
 
 ### Apaixonada pela área de Testes e Qualidade de Software! 🐞
 
