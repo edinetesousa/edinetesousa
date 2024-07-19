@@ -1,7 +1,3 @@
-<a href="https://www.linkedin.com/in/edinetesousa/">
-  <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-
 <h2> Olá, eu sou Edinete Sousa! 🙋🏽‍♀️ </h2>
 
 <h3> Apaixonada pela área de Testes e Qualidade de Software! 🐞 </h3>
