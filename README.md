@@ -1,6 +1,10 @@
 ## Olá, eu sou Edinete Sousa! 🙋🏽‍♀️
 
-### Apaixonada pela área de Testes e Qualidade de Software! 🐞
+<a href="https://www.linkedin.com/in/edinetesousa/">
+  <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+
+## Apaixonada pela área de Testes e Qualidade de Software! 🐞
 
 📚 Sou formada em Administração de Empresas e estou cursando **Analise e Desenvolvimento de Sistemas** na Estácio (EAD).
 
