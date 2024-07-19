@@ -2,10 +2,9 @@
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-<h1> Olá, eu sou Edinete Sousa! 🙋🏽‍♀️ </h1>
+<h2> Olá, eu sou Edinete Sousa! 🙋🏽‍♀️ </h2>
 
-
-### Apaixonada pela área de Testes e Qualidade de Software! 🐞
+<h3> Apaixonada pela área de Testes e Qualidade de Software! 🐞 </h3>
 
 📚 Sou formada em Administração de Empresas e estou cursando **Analise e Desenvolvimento de Sistemas** na Estácio (EAD).
 
